@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Rightfel's github stats](https://github-readme-stats.sera5-dev.vercel.app/api?username=rightfel&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
+<img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=rightfel&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
