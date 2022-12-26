@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Hanif 👋
 
 <!--
 **hanifanrn/hanifanrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hanifanrn's github stats](https://github-readme-stats.sera5-dev.vercel.app/api?username=hanifanrn&hide=stars&show_icons=true&count_private=true&include_all_commits=true&title_color=000000&icon_color=000000)
-<img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=hanifanrn&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
+### :zap: Recent Activity
+
+<p align="left">
+<a href="https://github.com/hanifanrn">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hanifanrn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanifanrn&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css"/>
+</a>
+</p>
