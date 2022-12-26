@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at IBM-JTI
 - 🌱 I’m currently learning Quantum Computing
 - 👯 I’m looking to collaborate on Rust or Quantum Computing project
+- 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/hanifanrn)
 
 ### :zap: Recent Activity
 
