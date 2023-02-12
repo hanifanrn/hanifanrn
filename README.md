@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hanifanrn&theme=dark&hide_border=true&border_radius=&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hanifanrn&theme=dark&border_radius=15&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
