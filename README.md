@@ -27,5 +27,3 @@ Here are some ideas to get you started:
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hanifanrn&layout=compact&langs_count=8&theme=dark&hide=jupyter%20notebook,html,css,scss,makefile"/>
 </a>
 </p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=hanifanrn&theme=dark&border_radius=15&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
