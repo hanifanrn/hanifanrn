@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Rust or Quantum Computing project
 - 📫 How to reach me: Send me a message via [LinkedIn](https://www.linkedin.com/in/hanifanrn)
 
-### :zap: Recent Activity
+### :zap: GitHub Stats
 
 <p align="left">
 <a href="https://github.com/hanifanrn">
